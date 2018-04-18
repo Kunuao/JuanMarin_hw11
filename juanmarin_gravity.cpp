@@ -5,7 +5,9 @@ using namespace std;
 // declaracion de las constantes de la masa inmovil y grande 
 
 //declaracion de variable 
-
+double G; 
+double M;
+double x; 
 double x_0 = 0.0;
 double v_0 = 0.0;
 // declaracion de las funciones 
