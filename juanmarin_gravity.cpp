@@ -37,13 +37,13 @@ while (x>0.01*x0){
 	v0 = V_adelante; 
 	t0 = t_adelante; 	
 
-	cout << X_adelante << " " << V_adelante << t_adelante << endl; 
+	
 	
 
 
 }
 	
-
+cout << X_adelante << " " << V_adelante << " " << " "<< t_adelante << endl; 
 
 }
 
